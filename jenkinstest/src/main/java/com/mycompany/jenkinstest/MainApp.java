@@ -18,6 +18,7 @@ public class MainApp extends Application {
         scene.getStylesheets().add("/styles/Styles.css");
         
         stage.setTitle("JavaFX and Maven");
+        System.out.println("MAVEN GOGOGOGO JENKINS GOGOGOGOGOOGOGOGO");
         stage.setScene(scene);
         stage.show();
     }
